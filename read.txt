@@ -1,0 +1,6 @@
+dependencias: 
+-Axios
+-PropTypes
+-ReactRouter
+-StyledComponents
+-FontAwesome
